@@ -72,13 +72,20 @@ const Header = () => {
             scrollToSection("hero");
           }}
         >
-          <span
-            className={`text-2xl font-bold ${
-              isScrolled ? "text-gradient" : ""
-            }`}
-          >
-            JOSHUA<span className="text-accent">.</span>DEV
-          </span>
+          <div className="flex items-center">
+            {/* Logo Container */}
+            <div className="flex items-center space-x-4 text-primary font-medium text-lg transition-transform hover:scale-[1.05]">
+              <div className="w-8 h-8 rounded-full bg-primary/30 flex items-center justify-center">
+                {/* Animated Dot */}
+                <div className="w-5 h-5 rounded-full bg-app-lavender dark:bg-app-lavender/90 animate-pulse-gentle"></div>
+              </div>
+
+              {/* Text */}
+              <span className="font-semibold tracking-tight text-foreground dark:text-foreground">
+                JoshuaEjabena
+              </span>
+            </div>
+          </div>
         </a>
 
         <div className="hidden md:flex items-center gap-6">

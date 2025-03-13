@@ -9,21 +9,24 @@ import Footer from "@/components/Footer";
 
 const Index = () => {
   return (
-    <motion.div
-      className="min-h-screen bg-background text-foreground"
-      initial={{ opacity: 0, y: 50 }}
-      animate={{ opacity: 1, y: 0 }}
-      exit={{ opacity: 0, y: -50 }}
-      transition={{ duration: 1, ease: "easeInOut" }}
-    >
+    <>
       <Header />
-      <Hero />
-      <About />
-      <Skills />
-      <Projects />
-      <Contact />
-      <Footer />
-    </motion.div>
+
+      <motion.div
+        className="min-h-screen bg-background text-foreground"
+        initial={{ opacity: 0, y: 50 }}
+        animate={{ opacity: 1, y: 0 }}
+        exit={{ opacity: 0, y: -50 }}
+        transition={{ duration: 1, ease: "easeInOut" }}
+      >
+        <Hero />
+        <About />
+        <Skills />
+        <Projects />
+        <Contact />
+        <Footer />
+      </motion.div>
+    </>
   );
 };
 

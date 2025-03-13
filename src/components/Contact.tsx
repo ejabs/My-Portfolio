@@ -63,7 +63,7 @@ const Contact = () => {
 
     try {
       const response = await fetch(
-        "https://my-portfolio-backend-liard.vercel.app/api/contact",
+        "https://my-portfolio-backend-4zmr.vercel.app/api/contact",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },

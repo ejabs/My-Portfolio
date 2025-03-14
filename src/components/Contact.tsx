@@ -151,7 +151,7 @@ const Contact = () => {
               </h4>
               <div className="flex gap-4">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/ejabs/ejabs"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-full bg-secondary hover:bg-primary/10 transition-colors"
@@ -160,7 +160,7 @@ const Contact = () => {
                   <Github className="h-5 w-5" />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="www.linkedin.com/in/joshua-ejabena"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-full bg-secondary hover:bg-primary/10 transition-colors"

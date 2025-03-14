@@ -92,15 +92,15 @@ const Projects = () => {
       image:
         "https://res.cloudinary.com/daxeovezx/image/upload/v1741873776/Screenshot_2025-03-13_134624_jimbtk.png",
       tags: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
-      github: "https://github.com",
-      demo: "https://demo.com",
+      github: "#",
+      demo: "https://fittrack-xi.vercel.app/",
       fullDescription:
         "FitTrack is a health and fitness app designed to help users achieve their fitness goals through guided workout videos, personalized meal plans, and progress tracking. The app provides AI-generated workout recommendations, a food database for meal tracking, and community support for motivation.",
       features: [
         "Workout videos with expert trainers",
         "Personalized meal plans",
         "Progress tracking dashboard",
-        "AI-powered workout recommendations",
+        "workout recommendations",
         "Calorie and nutrition tracking",
         "Community and support groups",
       ],
@@ -123,10 +123,10 @@ const Projects = () => {
       image:
         "https://res.cloudinary.com/daxeovezx/image/upload/v1741874457/Screenshot_2025-03-13_140032_dwzpre.png",
       tags: ["React", "Framer Motion", "Tailwind CSS", "Vercel"],
-      github: "https://github.com",
-      demo: "https://epoch.com",
+      github: "#",
+      demo: "https://joshuaejabena-portfolio.vercel.app/",
       fullDescription:
-        "Epoch is a stylish, modern portfolio website designed to showcase projects, technical skills, and experience. It features smooth animations, dynamic content, and a fully responsive layout, providing a visually engaging experience for visitors.",
+        "A modern portfolio website designed to showcase projects, technical skills, and experience. It features smooth animations, dynamic content, and a fully responsive layout, providing a visually engaging experience for visitors.",
       features: [
         "Fully responsive and optimized for all devices",
         "Framer Motion animations for smooth transitions",
@@ -154,8 +154,8 @@ const Projects = () => {
       image:
         "https://res.cloudinary.com/daxeovezx/image/upload/v1741874583/Screenshot_2025-03-13_140243_whombg.png",
       tags: ["React", "Redux", "Chart.js", "Tailwind CSS"],
-      github: "https://github.com",
-      demo: "https://demo.com",
+      github: "#",
+      demo: "https://cryptolite-five.vercel.app/",
       fullDescription:
         "A cryptocurrency dashboard simulator that mimics real-world market trends with interactive data visualization. Users can explore simulated price charts, track portfolios, and analyze market trends without relying on live API data.",
       features: [
@@ -176,14 +176,14 @@ const Projects = () => {
     },
     {
       id: 6,
-      title: "Epochouse",
+      title: "Musichouse",
       description:
         "A mobile application for booking studio sessions and hiring session musicians.",
       image:
         "https://res.cloudinary.com/daxeovezx/image/upload/v1741873778/Screenshot_2025-03-13_134508_ajercj.png",
       tags: ["React Native", "GraphQL", "MongoDB", "AWS"],
-      github: "https://github.com",
-      demo: "https://demo.com",
+      github: "#",
+      demo: "https://musichouse.vercel.app/",
       fullDescription:
         "A professional music studio management website designed for artists, producers, and engineers. Users can book studio sessions, hire session musicians, and request mixing and mastering services—all from their device.",
       features: [
@@ -202,8 +202,8 @@ const Projects = () => {
       image:
         "https://res.cloudinary.com/daxeovezx/image/upload/v1741873776/Screenshot_2025-03-13_134531_z4nfbk.png",
       tags: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
-      github: "https://github.com",
-      demo: "https://demo.com",
+      github: "#",
+      demo: "https://nigerianmeals.vercel.app/",
       fullDescription:
         "A meal planning web app designed for Nigerians looking to create personalized food timetables. Users can select their dietary preferences, budget, and meal frequency to generate a custom meal plan featuring a variety of Nigerian dishes.",
       features: [

@@ -108,7 +108,7 @@ const Header = () => {
             <ResumeButton />
             <ThemeToggle />
             <a
-              href="https://github.com"
+              href="https://github.com/ejabs/ejabs"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
@@ -118,7 +118,7 @@ const Header = () => {
               </Button>
             </a>
             <a
-              href="https://linkedin.com"
+              href="www.linkedin.com/in/joshua-ejabena"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
@@ -179,7 +179,7 @@ const Header = () => {
                 <div className="flex gap-6 mt-4">
                   <ThemeToggle />
                   <a
-                    href="https://github.com"
+                    href="https://github.com/ejabs/ejabs"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="GitHub"
@@ -187,7 +187,7 @@ const Header = () => {
                     <Github className="h-6 w-6 hover:text-primary transition-colors" />
                   </a>
                   <a
-                    href="https://linkedin.com"
+                    href="www.linkedin.com/in/joshua-ejabena"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LinkedIn"

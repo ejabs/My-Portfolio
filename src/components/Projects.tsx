@@ -37,8 +37,8 @@ const Projects = () => {
       image:
         "https://res.cloudinary.com/daxeovezx/image/upload/v1741873780/Screenshot_2025-03-13_134313_jtlngb.png",
       tags: ["React", "Node.js", "MongoDB", "Stripe"],
-      github: "https://github.com",
-      demo: "https://demo.com",
+      github: "#",
+      demo: "https://shfeet-new-dt5h.vercel.app/",
       fullDescription:
         "A complete e-commerce solution with shopping cart, payment processing, and order management. This project showcases complex state management, API integration, and responsive design principles.",
       features: [
@@ -67,8 +67,8 @@ const Projects = () => {
       image:
         "https://res.cloudinary.com/daxeovezx/image/upload/v1741873776/Screenshot_2025-03-13_134550_apiwjq.png",
       tags: ["React", "TypeScript", "Firebase", "Tailwind CSS"],
-      github: "https://github.com",
-      demo: "https://demo.com",
+      github: "#",
+      demo: "https://periodpal.vercel.app/",
       fullDescription:
         "An intuitive menstrual cycle tracking app that helps users monitor their period, ovulation, and fertility windows with real-time insights. Features include reminders, symptom logging, and health analytics.",
       features: [

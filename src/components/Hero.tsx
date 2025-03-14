@@ -119,7 +119,9 @@ const Hero = () => {
               variant="ghost"
               size="lg"
               className="rounded-full text-base px-6 flex items-center gap-2 hover:bg-accent/10 hover:text-accent transition-all"
-              onClick={() => window.open("https://github.com", "_blank")}
+              onClick={() =>
+                window.open("https://github.com/ejabs/ejabs", "_blank")
+              }
             >
               <Github className="w-4 h-4" />
               GitHub Profile

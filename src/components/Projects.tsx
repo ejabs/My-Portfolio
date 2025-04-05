@@ -85,6 +85,34 @@ const Projects = () => {
     },
 
     {
+      id: 8,
+      title: "E-Commerce Platform",
+      description:
+        "A modern e-commerce platform with a sleek UI and robust backend.",
+      image:
+        "https://res.cloudinary.com/daxeovezx/image/upload/v1743848188/Screenshot_2025-04-05_111525_jidnzw.png",
+      tags: ["React", "Node.js", "Paystack"],
+      github: "#",
+      demo: "https://www.shfeet.com.ng",
+      fullDescription:
+        "A complete e-commerce solution with shopping cart, payment processing. This project showcases complex state management, API integration, and responsive design principles.",
+      features: [
+        "Product search and filtering",
+        "Shopping cart with local storage",
+        "PayStack payment integration",
+        "Order history and tracking",
+      ],
+      technologies: [
+        "React",
+        "Redux",
+        "Node.js",
+        "Express",
+        "Paystack API",
+        "Tailwind CSS",
+      ],
+    },
+
+    {
       id: 3,
       title: "FitTrack - Health & Fitness App",
       description:

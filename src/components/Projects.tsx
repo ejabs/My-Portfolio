@@ -283,25 +283,6 @@ const Projects = () => {
         "TradingView widgets",
       ],
     },
-    {
-      id: 6,
-      title: "Musichouse",
-      description:
-        "A mobile application for booking studio sessions and hiring session musicians.",
-      image:
-        "https://res.cloudinary.com/daxeovezx/image/upload/v1741873778/Screenshot_2025-03-13_134508_ajercj.png",
-      tags: ["React Native", "GraphQL", "MongoDB", "AWS"],
-      github: "#",
-      demo: "https://musichouse.vercel.app/",
-      fullDescription:
-        "A professional music studio management website designed for artists, producers, and engineers. Users can book studio sessions, hire session musicians, and request mixing and mastering services—all from their device.",
-      features: [
-        "Book studio sessions easily",
-        "Hire professional session musicians",
-        "Request mixing and mastering services",
-      ],
-      technologies: ["React Native", "Apollo Client", "MongoDB", "AWS Amplify"],
-    },
 
     {
       id: 7,
